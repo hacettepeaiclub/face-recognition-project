@@ -22,9 +22,9 @@ Python 3.11
 
 ## Yükleme
 
-- virtualenv ortamı oluştur.
+- Sanal ortam (virtualenv) oluştur.
 
-- Gerekli olan tüm kütüphaneleri from requirements.txt dosyasından yükleyin
+- Gerekli olan tüm kütüphaneleri requirements.txt dosyasından yükleyin
 
 - Gerekli kütüphaneleri yükledikten sonra [google drive](https://drive.google.com/drive/folders/1arXbBb_MA20MIgFr0Ap6euUjl-YGjqiD?usp=sharing) adresimizden modelleri indirin
 
